@@ -1,1 +1,1 @@
-# A project with accompaning report which improve the performance in remote sensing application through Transfer Learning.
+# A project with accompaning report which improves the performance of a remote sensing application through Transfer Learning.
